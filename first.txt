@@ -1,1 +1,3 @@
 hellow
+.git add 
+.git commit
